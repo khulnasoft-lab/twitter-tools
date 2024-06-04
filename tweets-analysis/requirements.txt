@@ -4,6 +4,6 @@ langcodes
 numpy
 seaborn
 Pillow
-matplotlib==3.8.2
+matplotlib==3.9.0
 click
 tqdm
